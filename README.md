@@ -80,4 +80,8 @@ To run the Ruedas Felices project in Rider, follow these steps:
 
 5. Use the console menu to manage customers, vehicles, inspectors, appointments, and email confirmations.
 
+## 👤 Author
 
+- [@MariAngelesm](https://github.com/MariAngelesm) 
+- Clan: Caimán
+- link: https://github.com/MariAngelesm/RuedasFelices.git
